@@ -1,2 +1,2 @@
-# yt
+# YouTube
 YouTube.com
